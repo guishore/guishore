@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![Banner](background.png#banner){ border-radius=20px } 
+<picture>
+ <!--
+  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+  -->
+ <img alt="Banner" src="background.png">
+</picture>
+
 
 <!--
 **guishore/guishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
