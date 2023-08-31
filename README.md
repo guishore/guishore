@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
   -->
- <img alt="Banner" src="GithubBanner.png">
+ <img alt="Banner" src="Banner.png">
 </picture>
 
 
