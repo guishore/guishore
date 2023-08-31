@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](background.png#banner)
+![Banner](background.png#banner){ border-radius=20px } 
 
 <!--
 **guishore/guishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
