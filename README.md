@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](./background.png "banner")
+![Alt text](./background.png#banner "banner")
 
 <!--
 **guishore/guishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
